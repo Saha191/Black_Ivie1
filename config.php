@@ -6,7 +6,7 @@ $host = 'mysql-24a6bece-yasirsaha191-0c8b.h.aivencloud.com';
 $port = '21413'; // Cloud databases use specific ports, not the default 3306
 $db   = 'defaultdb';
 $user = 'avnadmin';
-$pass = 'YOUR_PASSWORD_HERE'; // Replace with the actual password from your Aiven dashboard
+$pass = 'AVNS_1g7I3lrPrOHNPEtJd0W'; // Replace with the actual password from your Aiven dashboard
 $charset = 'utf8mb4';
 
 // The DSN must now include the custom port
